@@ -5,12 +5,13 @@
     * Amandeep Saini
     * Dhaval Vipin Shah
     * Siddhesh Satish Nikam
+## Page Link : https://maple-trading.netlify.app/
 
 ## Name: Ishita Arora
 
 ## Student Number: N01543414
 
-## Page Link : http://127.0.0.1:5502/future_trading.html
+## Page Link 1 : http://127.0.0.1:5502/future_trading.html
 
 ## Tasks
 - [x] Fully functional web page with HTML, CSS and JavaScript(Task-1)
